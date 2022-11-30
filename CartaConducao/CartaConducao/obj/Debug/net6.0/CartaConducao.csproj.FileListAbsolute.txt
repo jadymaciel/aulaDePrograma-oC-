@@ -1,0 +1,15 @@
+C:\Users\jadym\OneDrive\Documentos\IPCA\CartaConducao\CartaConducao\bin\Debug\net6.0\CartaConducao.exe
+C:\Users\jadym\OneDrive\Documentos\IPCA\CartaConducao\CartaConducao\bin\Debug\net6.0\CartaConducao.deps.json
+C:\Users\jadym\OneDrive\Documentos\IPCA\CartaConducao\CartaConducao\bin\Debug\net6.0\CartaConducao.runtimeconfig.json
+C:\Users\jadym\OneDrive\Documentos\IPCA\CartaConducao\CartaConducao\bin\Debug\net6.0\CartaConducao.dll
+C:\Users\jadym\OneDrive\Documentos\IPCA\CartaConducao\CartaConducao\bin\Debug\net6.0\CartaConducao.pdb
+C:\Users\jadym\OneDrive\Documentos\IPCA\CartaConducao\CartaConducao\obj\Debug\net6.0\CartaConducao.csproj.AssemblyReference.cache
+C:\Users\jadym\OneDrive\Documentos\IPCA\CartaConducao\CartaConducao\obj\Debug\net6.0\CartaConducao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jadym\OneDrive\Documentos\IPCA\CartaConducao\CartaConducao\obj\Debug\net6.0\CartaConducao.AssemblyInfoInputs.cache
+C:\Users\jadym\OneDrive\Documentos\IPCA\CartaConducao\CartaConducao\obj\Debug\net6.0\CartaConducao.AssemblyInfo.cs
+C:\Users\jadym\OneDrive\Documentos\IPCA\CartaConducao\CartaConducao\obj\Debug\net6.0\CartaConducao.csproj.CoreCompileInputs.cache
+C:\Users\jadym\OneDrive\Documentos\IPCA\CartaConducao\CartaConducao\obj\Debug\net6.0\CartaConducao.dll
+C:\Users\jadym\OneDrive\Documentos\IPCA\CartaConducao\CartaConducao\obj\Debug\net6.0\refint\CartaConducao.dll
+C:\Users\jadym\OneDrive\Documentos\IPCA\CartaConducao\CartaConducao\obj\Debug\net6.0\CartaConducao.pdb
+C:\Users\jadym\OneDrive\Documentos\IPCA\CartaConducao\CartaConducao\obj\Debug\net6.0\CartaConducao.genruntimeconfig.cache
+C:\Users\jadym\OneDrive\Documentos\IPCA\CartaConducao\CartaConducao\obj\Debug\net6.0\ref\CartaConducao.dll

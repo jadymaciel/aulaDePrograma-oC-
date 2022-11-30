@@ -1,0 +1,15 @@
+C:\Users\jadym\OneDrive\Documentos\IPCA\consumoEnergia\consumoEnergia\obj\Debug\net6.0\consumoEnergia.csproj.AssemblyReference.cache
+C:\Users\jadym\OneDrive\Documentos\IPCA\consumoEnergia\consumoEnergia\obj\Debug\net6.0\consumoEnergia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jadym\OneDrive\Documentos\IPCA\consumoEnergia\consumoEnergia\obj\Debug\net6.0\consumoEnergia.AssemblyInfoInputs.cache
+C:\Users\jadym\OneDrive\Documentos\IPCA\consumoEnergia\consumoEnergia\obj\Debug\net6.0\consumoEnergia.AssemblyInfo.cs
+C:\Users\jadym\OneDrive\Documentos\IPCA\consumoEnergia\consumoEnergia\obj\Debug\net6.0\consumoEnergia.csproj.CoreCompileInputs.cache
+C:\Users\jadym\OneDrive\Documentos\IPCA\consumoEnergia\consumoEnergia\bin\Debug\net6.0\consumoEnergia.exe
+C:\Users\jadym\OneDrive\Documentos\IPCA\consumoEnergia\consumoEnergia\bin\Debug\net6.0\consumoEnergia.deps.json
+C:\Users\jadym\OneDrive\Documentos\IPCA\consumoEnergia\consumoEnergia\bin\Debug\net6.0\consumoEnergia.runtimeconfig.json
+C:\Users\jadym\OneDrive\Documentos\IPCA\consumoEnergia\consumoEnergia\bin\Debug\net6.0\consumoEnergia.dll
+C:\Users\jadym\OneDrive\Documentos\IPCA\consumoEnergia\consumoEnergia\bin\Debug\net6.0\consumoEnergia.pdb
+C:\Users\jadym\OneDrive\Documentos\IPCA\consumoEnergia\consumoEnergia\obj\Debug\net6.0\consumoEnergia.dll
+C:\Users\jadym\OneDrive\Documentos\IPCA\consumoEnergia\consumoEnergia\obj\Debug\net6.0\refint\consumoEnergia.dll
+C:\Users\jadym\OneDrive\Documentos\IPCA\consumoEnergia\consumoEnergia\obj\Debug\net6.0\consumoEnergia.pdb
+C:\Users\jadym\OneDrive\Documentos\IPCA\consumoEnergia\consumoEnergia\obj\Debug\net6.0\consumoEnergia.genruntimeconfig.cache
+C:\Users\jadym\OneDrive\Documentos\IPCA\consumoEnergia\consumoEnergia\obj\Debug\net6.0\ref\consumoEnergia.dll

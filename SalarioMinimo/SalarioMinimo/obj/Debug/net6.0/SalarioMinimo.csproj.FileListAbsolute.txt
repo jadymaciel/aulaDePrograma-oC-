@@ -1,0 +1,15 @@
+C:\Users\jadym\OneDrive\Documentos\IPCA\SalarioMinimo\SalarioMinimo\bin\Debug\net6.0\SalarioMinimo.exe
+C:\Users\jadym\OneDrive\Documentos\IPCA\SalarioMinimo\SalarioMinimo\bin\Debug\net6.0\SalarioMinimo.deps.json
+C:\Users\jadym\OneDrive\Documentos\IPCA\SalarioMinimo\SalarioMinimo\bin\Debug\net6.0\SalarioMinimo.runtimeconfig.json
+C:\Users\jadym\OneDrive\Documentos\IPCA\SalarioMinimo\SalarioMinimo\bin\Debug\net6.0\SalarioMinimo.dll
+C:\Users\jadym\OneDrive\Documentos\IPCA\SalarioMinimo\SalarioMinimo\bin\Debug\net6.0\SalarioMinimo.pdb
+C:\Users\jadym\OneDrive\Documentos\IPCA\SalarioMinimo\SalarioMinimo\obj\Debug\net6.0\SalarioMinimo.csproj.AssemblyReference.cache
+C:\Users\jadym\OneDrive\Documentos\IPCA\SalarioMinimo\SalarioMinimo\obj\Debug\net6.0\SalarioMinimo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jadym\OneDrive\Documentos\IPCA\SalarioMinimo\SalarioMinimo\obj\Debug\net6.0\SalarioMinimo.AssemblyInfoInputs.cache
+C:\Users\jadym\OneDrive\Documentos\IPCA\SalarioMinimo\SalarioMinimo\obj\Debug\net6.0\SalarioMinimo.AssemblyInfo.cs
+C:\Users\jadym\OneDrive\Documentos\IPCA\SalarioMinimo\SalarioMinimo\obj\Debug\net6.0\SalarioMinimo.csproj.CoreCompileInputs.cache
+C:\Users\jadym\OneDrive\Documentos\IPCA\SalarioMinimo\SalarioMinimo\obj\Debug\net6.0\SalarioMinimo.dll
+C:\Users\jadym\OneDrive\Documentos\IPCA\SalarioMinimo\SalarioMinimo\obj\Debug\net6.0\refint\SalarioMinimo.dll
+C:\Users\jadym\OneDrive\Documentos\IPCA\SalarioMinimo\SalarioMinimo\obj\Debug\net6.0\SalarioMinimo.pdb
+C:\Users\jadym\OneDrive\Documentos\IPCA\SalarioMinimo\SalarioMinimo\obj\Debug\net6.0\SalarioMinimo.genruntimeconfig.cache
+C:\Users\jadym\OneDrive\Documentos\IPCA\SalarioMinimo\SalarioMinimo\obj\Debug\net6.0\ref\SalarioMinimo.dll

@@ -1,0 +1,15 @@
+C:\Users\jadym\OneDrive\Documentos\IPCA\saberIdade\saberIdade\bin\Debug\net6.0\saberIdade.exe
+C:\Users\jadym\OneDrive\Documentos\IPCA\saberIdade\saberIdade\bin\Debug\net6.0\saberIdade.deps.json
+C:\Users\jadym\OneDrive\Documentos\IPCA\saberIdade\saberIdade\bin\Debug\net6.0\saberIdade.runtimeconfig.json
+C:\Users\jadym\OneDrive\Documentos\IPCA\saberIdade\saberIdade\bin\Debug\net6.0\saberIdade.dll
+C:\Users\jadym\OneDrive\Documentos\IPCA\saberIdade\saberIdade\bin\Debug\net6.0\saberIdade.pdb
+C:\Users\jadym\OneDrive\Documentos\IPCA\saberIdade\saberIdade\obj\Debug\net6.0\saberIdade.csproj.AssemblyReference.cache
+C:\Users\jadym\OneDrive\Documentos\IPCA\saberIdade\saberIdade\obj\Debug\net6.0\saberIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jadym\OneDrive\Documentos\IPCA\saberIdade\saberIdade\obj\Debug\net6.0\saberIdade.AssemblyInfoInputs.cache
+C:\Users\jadym\OneDrive\Documentos\IPCA\saberIdade\saberIdade\obj\Debug\net6.0\saberIdade.AssemblyInfo.cs
+C:\Users\jadym\OneDrive\Documentos\IPCA\saberIdade\saberIdade\obj\Debug\net6.0\saberIdade.csproj.CoreCompileInputs.cache
+C:\Users\jadym\OneDrive\Documentos\IPCA\saberIdade\saberIdade\obj\Debug\net6.0\saberIdade.dll
+C:\Users\jadym\OneDrive\Documentos\IPCA\saberIdade\saberIdade\obj\Debug\net6.0\refint\saberIdade.dll
+C:\Users\jadym\OneDrive\Documentos\IPCA\saberIdade\saberIdade\obj\Debug\net6.0\saberIdade.pdb
+C:\Users\jadym\OneDrive\Documentos\IPCA\saberIdade\saberIdade\obj\Debug\net6.0\saberIdade.genruntimeconfig.cache
+C:\Users\jadym\OneDrive\Documentos\IPCA\saberIdade\saberIdade\obj\Debug\net6.0\ref\saberIdade.dll

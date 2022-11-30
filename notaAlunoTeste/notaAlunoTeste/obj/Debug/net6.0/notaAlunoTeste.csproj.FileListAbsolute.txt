@@ -1,0 +1,15 @@
+C:\Users\jadym\OneDrive\Documentos\IPCA\notaAlunoTeste\notaAlunoTeste\bin\Debug\net6.0\notaAlunoTeste.exe
+C:\Users\jadym\OneDrive\Documentos\IPCA\notaAlunoTeste\notaAlunoTeste\bin\Debug\net6.0\notaAlunoTeste.deps.json
+C:\Users\jadym\OneDrive\Documentos\IPCA\notaAlunoTeste\notaAlunoTeste\bin\Debug\net6.0\notaAlunoTeste.runtimeconfig.json
+C:\Users\jadym\OneDrive\Documentos\IPCA\notaAlunoTeste\notaAlunoTeste\bin\Debug\net6.0\notaAlunoTeste.dll
+C:\Users\jadym\OneDrive\Documentos\IPCA\notaAlunoTeste\notaAlunoTeste\bin\Debug\net6.0\notaAlunoTeste.pdb
+C:\Users\jadym\OneDrive\Documentos\IPCA\notaAlunoTeste\notaAlunoTeste\obj\Debug\net6.0\notaAlunoTeste.csproj.AssemblyReference.cache
+C:\Users\jadym\OneDrive\Documentos\IPCA\notaAlunoTeste\notaAlunoTeste\obj\Debug\net6.0\notaAlunoTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jadym\OneDrive\Documentos\IPCA\notaAlunoTeste\notaAlunoTeste\obj\Debug\net6.0\notaAlunoTeste.AssemblyInfoInputs.cache
+C:\Users\jadym\OneDrive\Documentos\IPCA\notaAlunoTeste\notaAlunoTeste\obj\Debug\net6.0\notaAlunoTeste.AssemblyInfo.cs
+C:\Users\jadym\OneDrive\Documentos\IPCA\notaAlunoTeste\notaAlunoTeste\obj\Debug\net6.0\notaAlunoTeste.csproj.CoreCompileInputs.cache
+C:\Users\jadym\OneDrive\Documentos\IPCA\notaAlunoTeste\notaAlunoTeste\obj\Debug\net6.0\notaAlunoTeste.dll
+C:\Users\jadym\OneDrive\Documentos\IPCA\notaAlunoTeste\notaAlunoTeste\obj\Debug\net6.0\refint\notaAlunoTeste.dll
+C:\Users\jadym\OneDrive\Documentos\IPCA\notaAlunoTeste\notaAlunoTeste\obj\Debug\net6.0\notaAlunoTeste.pdb
+C:\Users\jadym\OneDrive\Documentos\IPCA\notaAlunoTeste\notaAlunoTeste\obj\Debug\net6.0\notaAlunoTeste.genruntimeconfig.cache
+C:\Users\jadym\OneDrive\Documentos\IPCA\notaAlunoTeste\notaAlunoTeste\obj\Debug\net6.0\ref\notaAlunoTeste.dll

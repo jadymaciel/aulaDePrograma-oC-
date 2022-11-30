@@ -1,0 +1,5 @@
+﻿Compilação iniciada...
+1>------ Compilação iniciada: Projeto: Aula3, Configuração: Debug Any CPU ------
+1>Ignorando analisadores para acelerar a construção. Você pode executar o comando 'Build' ou 'Rebuild' para executar os analisadores.
+1>Aula3 -> C:\Users\jadym\OneDrive\Documentos\IPCA\Aula3\Aula3\bin\Debug\net6.0\Aula3.dll
+========== Compilação: 1 bem-sucedida, 0 com falha, 0 atualizada, 0 ignorada ==========
